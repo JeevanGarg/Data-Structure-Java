@@ -36,7 +36,7 @@ public class Compress_the_String
         }
 
         System.out.println(s1);
-=
+
     }
     
 }
