@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solution {
+public class Print_Intersection {
 
 	public static void intersection(int[] arr1, int[] arr2) 
     {
