@@ -1,6 +1,6 @@
 import java.util.HashMap;
 import java.util.*;
-public class Solution {
+public class Max_Frequency_Number {
 
     public static int maxFrequencyNumber(int[] arr)
     {
