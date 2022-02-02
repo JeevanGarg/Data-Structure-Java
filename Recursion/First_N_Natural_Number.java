@@ -5,16 +5,24 @@ import java.util.*;
 
 import java.util.*;
 
-public class NumberOfDigits {
+public class First_N_Natural_Number {
+
+    public static void Natural(int n){
+
+        if(n==0){
+            return;
+        }
+        Natural(n-1);
+        System.out.print(n+" ");
+    }
 
    
-    
     public static void main(String[] args)
     {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
-        int ans = digit(n);
-        System.out.println(ans);
+        Natural(n);
+       
     }
     
 }
