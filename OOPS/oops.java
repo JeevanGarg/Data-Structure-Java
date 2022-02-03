@@ -45,10 +45,13 @@ public class oops {
         Sol:- Static methods are the methods in Java that can be called without creating an object of class.
         
         Q11) what is Encapsulation?
-        Sol:-
+        Sol:- Encapsulation is wrapping up of data under a single unit and data in a class is hidden from other classes
+              called data-hiding.Encapsulation can be achieved by Declaring all the variables in the class as private 
+              and writing public methods in the class to set and get the values of variables.
 
         Q12) what is Abstraction?
-        Sol:-
+        Sol:- Abstraction is hiding the implementation part and only showing the necessary information to the user.
+              Eg:- car is viewed as a car than its individual components.
 
 
 
