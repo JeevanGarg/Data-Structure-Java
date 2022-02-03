@@ -42,7 +42,13 @@ public class oops {
         Sol:- we will create onle one instance of static member and that is shared across all instance of class.
 
         Q10) Whst is static function?
-        Sol:- Static methods are the methods in Java that can be called without creating an object of class. 
+        Sol:- Static methods are the methods in Java that can be called without creating an object of class.
+        
+        Q11) what is Encapsulation?
+        Sol:-
+
+        Q12) what is Abstraction?
+        Sol:-
 
 
 
