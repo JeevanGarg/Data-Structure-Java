@@ -53,6 +53,10 @@ public class oops {
         Sol:- Abstraction is hiding the implementation part and only showing the necessary information to the user.
               Eg:- car is viewed as a car than its individual components.
 
+        Q13) What is Inheritance?
+        Sol:- It allows child class to inherit the properties and functionality of parent class.
+              So,that we don't have to write code again and again.
+
 
 
 
