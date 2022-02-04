@@ -57,6 +57,20 @@ public class oops {
         Sol:- It allows child class to inherit the properties and functionality of parent class.
               So,that we don't have to write code again and again.
 
+        Q14) What is super keyword?
+        sol:- If you also want to call the function and variable of base class then use super keyword.
+
+        Q15) what is Polymorphism?
+        Sol:- Polymorphism is one form can be represented in many forms.
+              Two Types:-
+              a) function overloading
+              b) function overriding
+
+        Q16) What is Exception handling?
+        Sol:- Exception handling ensures that the flow of the program doesn't break when an exception occurs.
+
+        
+
 
 
 
