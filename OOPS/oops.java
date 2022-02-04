@@ -1,7 +1,3 @@
-
-import java.util.Scanner;
-import java.util.*;
-
 import java.util.*;
 
 public class oops {
@@ -9,7 +5,7 @@ public class oops {
    
     public static void main(String[] args)
     {
-        /*oops   one example-below
+        /*oops      one example-below
         
         Q1) what is oop?  
         Sol:- oops is object oriented Programming is associated with the concept of class and object and 
@@ -68,6 +64,19 @@ public class oops {
 
         Q16) What is Exception handling?
         Sol:- Exception handling ensures that the flow of the program doesn't break when an exception occurs.
+              Types of Exception:-
+              1)Built-in Exception - NullPointerException,Arithmetic Exception,ArrayIndexOutofBound Exception etc
+              2)User-defined Exception
+
+        Q17) What is abstract keyword?
+        sol:- 1) Abstract class is a restricted class that cannot be usted to create objects.To access it, it must 
+                 be inherited to another class.
+              2) Abstract class contain abstract and non-abstract methods.
+              3) Abstract method can only be used in abstract class, and it does not have a body.The body is
+                 provided by sub-class(inherited from).
+
+        Q18) What is interface?
+        Sol:- Interface contains pure abstract method.
 
         
 
