@@ -1,4 +1,4 @@
-
+//hollow rectangle Pattern
 import java.util.Scanner;
 
 public class hollowRectangle {
